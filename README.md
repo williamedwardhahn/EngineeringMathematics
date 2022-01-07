@@ -10,3 +10,5 @@ https://people.bu.edu/marc777/docs/WeberFechner-CoCoNIPS.pdf
 https://github.com/Zymrael/awesome-neural-ode
 
 https://catlikecoding.com/unity/tutorials/basics/
+
+http://faculty.sfasu.edu/judsontw/ode/
