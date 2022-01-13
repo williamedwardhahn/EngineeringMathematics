@@ -37,7 +37,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 
 ## Links
-* http://faculty.sfasu.edu/judsontw/ode/
+* Online Textbook: http://faculty.sfasu.edu/judsontw/ode/
 
 
 <!--- 
