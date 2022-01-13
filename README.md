@@ -46,4 +46,11 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * https://people.bu.edu/marc777/docs/WeberFechner-CoCoNIPS.pdf
 * https://github.com/Zymrael/awesome-neural-ode
 * https://catlikecoding.com/unity/tutorials/basics/
+
+
+## Notebooks
+
+* https://colab.research.google.com/drive/1jLUcg9jkYtNt2i6XG3sXsuDshx9xS3BH?usp=sharing
+* https://colab.research.google.com/drive/1WTX38Z-w1EUX7a4GGzsv4oOuFWA8kMcf?usp=sharing
+* https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing
 -->
