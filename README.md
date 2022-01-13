@@ -34,6 +34,7 @@ Rex's Guide to Preparing a Lab Report
 
 https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=sharing
 
+<img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
 
 
 ## Links
