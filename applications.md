@@ -1,6 +1,3 @@
-
-<img src= "https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2021/08/23/NIST.SP_.1247.png", height=200>
-
 # Ideas:
 
 * Racecar
