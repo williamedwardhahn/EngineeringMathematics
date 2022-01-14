@@ -48,7 +48,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * https://github.com/Zymrael/awesome-neural-ode
 * https://catlikecoding.com/unity/tutorials/basics/
 * Wave Equation https://personal.math.ubc.ca/~feldman/m256/wave.pdf
-
+* Schrodinger Equation https://arxiv.org/pdf/physics/0610121.pdf
 
 ## Notebooks
 
