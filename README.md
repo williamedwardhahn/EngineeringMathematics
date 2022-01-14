@@ -47,6 +47,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * https://people.bu.edu/marc777/docs/WeberFechner-CoCoNIPS.pdf
 * https://github.com/Zymrael/awesome-neural-ode
 * https://catlikecoding.com/unity/tutorials/basics/
+* Wave Equation https://personal.math.ubc.ca/~feldman/m256/wave.pdf
 
 
 ## Notebooks
