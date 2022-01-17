@@ -42,6 +42,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
 * Analogical models https://en.wikipedia.org/wiki/Analogical_models
 * Antikythera Mechanism https://www.youtube.com/watch?v=qqlJ50zDgeA
+* Differential Analyzers https://ethw.org/Differential_Analyzers
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
