@@ -43,6 +43,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analogical models https://en.wikipedia.org/wiki/Analogical_models
 * Antikythera Mechanism https://www.youtube.com/watch?v=qqlJ50zDgeA
 * Differential Analyzers https://ethw.org/Differential_Analyzers
+* https://www.youtube.com/watch?v=FvXwVZPOoBI
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
