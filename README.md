@@ -72,3 +72,5 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analog Computer Intro https://www.youtube.com/watch?v=Ys7v7lnLgbM
 * FPGA DDA https://people.ece.cornell.edu/land/courses/ece5760/DDA/index.htm
 * 100-year-old mechanical computer https://www.youtube.com/watch?v=NAsM30MAHLg
+
+* https://detexify.kirelabs.org/classify.html
