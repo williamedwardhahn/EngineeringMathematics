@@ -60,3 +60,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * https://colab.research.google.com/drive/1WTX38Z-w1EUX7a4GGzsv4oOuFWA8kMcf?usp=sharing
 * https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing
 -->
+
+* Numerical Derivative https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing
+* Analog Computer 1 https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing
+
