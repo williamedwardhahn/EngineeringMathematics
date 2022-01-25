@@ -69,4 +69,4 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Hamming Lectures https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
 
 * Hybrid Computer https://www.youtube.com/watch?v=njp0ABKwrXA
-
+* Analog Computer Intro https://www.youtube.com/watch?v=Ys7v7lnLgbM
