@@ -70,3 +70,4 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 * Hybrid Computer https://www.youtube.com/watch?v=njp0ABKwrXA
 * Analog Computer Intro https://www.youtube.com/watch?v=Ys7v7lnLgbM
+* FPGA DDA https://people.ece.cornell.edu/land/courses/ece5760/DDA/index.htm
