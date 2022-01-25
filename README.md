@@ -65,3 +65,6 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analog Computer 1 https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing
 * Antiderivative https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing
 
+* Hamming Mathematics https://www.youtube.com/watch?v=Km9_rBUGYYk
+* Hamming Lectures https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
+
