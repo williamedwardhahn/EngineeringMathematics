@@ -36,14 +36,29 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 <img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
 
-
-## Links
+## Textbook
 * Online Textbook: http://faculty.sfasu.edu/judsontw/ode/
+
+## Notebooks
+* Numerical Derivative https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing
+* Antiderivative https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing
+
+
+## Research Reference Links
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
 * Analogical models https://en.wikipedia.org/wiki/Analogical_models
 * Antikythera Mechanism https://www.youtube.com/watch?v=qqlJ50zDgeA
 * Differential Analyzers https://ethw.org/Differential_Analyzers
-* https://www.youtube.com/watch?v=FvXwVZPOoBI
+* PDE Documentary https://www.youtube.com/watch?v=FvXwVZPOoBI
+* Analog Computer 1 https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing
+* Hamming Mathematics https://www.youtube.com/watch?v=Km9_rBUGYYk
+* Hamming Lectures https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
+* Hybrid Computer https://www.youtube.com/watch?v=njp0ABKwrXA
+* Analog Computer Intro https://www.youtube.com/watch?v=Ys7v7lnLgbM
+* FPGA DDA https://people.ece.cornell.edu/land/courses/ece5760/DDA/index.htm
+* 100-year-old mechanical computer https://www.youtube.com/watch?v=NAsM30MAHLg
+* Dextify https://detexify.kirelabs.org/classify.html
+* Sympy https://docs.sympy.org/latest/tutorial/intro.html
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
@@ -61,14 +76,4 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing
 -->
 
-* Numerical Derivative https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing
-* Analog Computer 1 https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing
-* Antiderivative https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing
-* Hamming Mathematics https://www.youtube.com/watch?v=Km9_rBUGYYk
-* Hamming Lectures https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
-* Hybrid Computer https://www.youtube.com/watch?v=njp0ABKwrXA
-* Analog Computer Intro https://www.youtube.com/watch?v=Ys7v7lnLgbM
-* FPGA DDA https://people.ece.cornell.edu/land/courses/ece5760/DDA/index.htm
-* 100-year-old mechanical computer https://www.youtube.com/watch?v=NAsM30MAHLg
-* Dextify https://detexify.kirelabs.org/classify.html
-* Sympy https://docs.sympy.org/latest/tutorial/intro.html
+
