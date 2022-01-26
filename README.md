@@ -64,14 +64,11 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Numerical Derivative https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing
 * Analog Computer 1 https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing
 * Antiderivative https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing
-
 * Hamming Mathematics https://www.youtube.com/watch?v=Km9_rBUGYYk
 * Hamming Lectures https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
-
 * Hybrid Computer https://www.youtube.com/watch?v=njp0ABKwrXA
 * Analog Computer Intro https://www.youtube.com/watch?v=Ys7v7lnLgbM
 * FPGA DDA https://people.ece.cornell.edu/land/courses/ece5760/DDA/index.htm
 * 100-year-old mechanical computer https://www.youtube.com/watch?v=NAsM30MAHLg
-
-* https://detexify.kirelabs.org/classify.html
-* https://docs.sympy.org/latest/tutorial/intro.html
+* Dextify https://detexify.kirelabs.org/classify.html
+* Sympy https://docs.sympy.org/latest/tutorial/intro.html
