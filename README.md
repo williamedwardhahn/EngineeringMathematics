@@ -49,7 +49,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 3) Explain Analytical Solutions 
 
 * 1.1.3 A Spring-Mass Model - Due Feb 3rd
-* 1.1.4 A Predator-Prey System Due Feb 3rd
+* 1.1.4 A Predator-Prey System - Due Feb 3rd
 
 
 ## Research Reference Links
