@@ -44,11 +44,13 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Antiderivative https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing
 
 ## Weekly Writeups
-Fully Typed in Latex (Colab or Overleaf)
-Reproduce Solutions Numerically
-Explain Analytical Solutions 
+1) Fully Typed in Latex (Colab or Overleaf)
+2) Reproduce Solutions Numerically
+3) Explain Analytical Solutions 
+
 * 1.1.3 A Spring-Mass Model - Due Feb 3rd
 * 1.1.4 A Predator-Prey System Due Feb 3rd
+
 
 ## Research Reference Links
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
