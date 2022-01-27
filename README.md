@@ -20,9 +20,11 @@
 * 1.1.4 A Predator-Prey System - Due Feb 3rd
 
 
-<img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
+
 
 ## Setup
+
+<img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
 
 Start here and familiarize yourself with the tools we will be using:
 
