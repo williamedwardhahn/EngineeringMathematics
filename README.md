@@ -2,6 +2,26 @@
 
 <img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
 
+
+## Textbook
+* Online Textbook: http://faculty.sfasu.edu/judsontw/ode/
+
+## Class Notebooks
+* <a href="https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing">Numerical Derivative</a>
+* <a href="https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing">Numerical Antiderivative</a>
+* <a href="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">Euler's Method for Initial Value Problems</a>
+
+## Weekly Writeups
+1) Fully Typed in Latex (Colab or Overleaf)
+2) Reproduce Solutions Numerically
+3) Explain Analytical Solutions 
+
+* 1.1.3 A Spring-Mass Model - Due Feb 3rd
+* 1.1.4 A Predator-Prey System - Due Feb 3rd
+
+
+<img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
+
 ## Setup
 
 Start here and familiarize yourself with the tools we will be using:
@@ -33,25 +53,6 @@ Lab Presentation: https://www.overleaf.com/read/xhsvcwnrkzns
 Rex's Guide to Preparing a Lab Report
 
 https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=sharing
-
-<img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
-
-## Textbook
-* Online Textbook: http://faculty.sfasu.edu/judsontw/ode/
-
-## Class Notebooks
-* <a href="https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing">Numerical Derivative</a>
-* <a href="https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing">Numerical Antiderivative</a>
-* <a href="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">Euler's Method for Initial Value Problems</a>
-
-## Weekly Writeups
-1) Fully Typed in Latex (Colab or Overleaf)
-2) Reproduce Solutions Numerically
-3) Explain Analytical Solutions 
-
-* 1.1.3 A Spring-Mass Model - Due Feb 3rd
-* 1.1.4 A Predator-Prey System - Due Feb 3rd
-
 
 ## Research Reference Links
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
