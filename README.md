@@ -72,6 +72,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * 100-year-old mechanical computer https://www.youtube.com/watch?v=NAsM30MAHLg
 * Dextify https://detexify.kirelabs.org/classify.html
 * Sympy https://docs.sympy.org/latest/tutorial/intro.html
+* Sympy https://gamma.sympy.org/
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
