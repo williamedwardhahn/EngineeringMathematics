@@ -1,4 +1,4 @@
-# EngineeringMathematics
+# Engineering Mathematics
 
 <img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
 
