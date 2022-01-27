@@ -7,6 +7,7 @@
 * Online Textbook: http://faculty.sfasu.edu/judsontw/ode/
 
 ## Class Notebooks
+* <a href="https://colab.research.google.com/drive/1Lgri8lJ4is-MPdArf4HuEZG7cVB-oYP4?usp=sharing">Symbolic Math</a>
 * <a href="https://colab.research.google.com/drive/1-V7BYbTjIgKeU_xbCQto3Vs55zPFaJRX?usp=sharing">Numerical Derivative</a>
 * <a href="https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing">Numerical Antiderivative</a>
 * <a href="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">Euler's Method for Initial Value Problems</a>
