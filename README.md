@@ -4,7 +4,8 @@
 
 
 ## Textbook
-* Online Textbook: http://faculty.sfasu.edu/judsontw/ode/
+* Online Textbook Website Version: http://faculty.sfasu.edu/judsontw/ode/html-snapshot/odeproject.html
+* Online Textbook PDF Version: http://faculty.sfasu.edu/judsontw/ode/odeproject-electronic-snapshot.pdf
 
 ## Class Notebooks
 * <a href="https://colab.research.google.com/drive/1Lgri8lJ4is-MPdArf4HuEZG7cVB-oYP4?usp=sharing">Symbolic Math</a>
