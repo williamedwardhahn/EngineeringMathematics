@@ -82,6 +82,8 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * https://catlikecoding.com/unity/tutorials/basics/
 * Wave Equation https://personal.math.ubc.ca/~feldman/m256/wave.pdf
 * Schrodinger Equation https://arxiv.org/pdf/physics/0610121.pdf
+* Wave https://medium.com/analytics-vidhya/riding-the-wave-numerically-85f1ef461c95
+* Rocket https://medium.com/analytics-vidhya/flying-a-rocket-numerically-404ed271ee23
 
 ## Notebooks
 
