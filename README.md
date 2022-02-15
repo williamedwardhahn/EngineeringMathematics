@@ -14,7 +14,7 @@
 * <a href="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">Euler's Method for Initial Value Problems</a>
 * <a href="https://colab.research.google.com/drive/1iuSJwAMotBa7Q3J7mZy3teA2xV0g6zlX?usp=sharing">Exponential Function</a>
 
-## Weekly Writeups
+## Writeups
 1) Fully Typed in Latex (Colab or Overleaf)
 2) Reproduce Solutions Numerically
 3) Explain Analytical Solutions 
