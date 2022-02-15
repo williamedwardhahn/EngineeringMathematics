@@ -23,38 +23,25 @@
 * 1.1.4 A Predator-Prey System - Due Feb 3rd
 * Notebook Report <a href ="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">IVP</a> - Due Feb 22nd
 
-## Markdown
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ## Setup
+
+< href"https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown Reference</a>
 
 <img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
 
 Start here and familiarize yourself with the tools we will be using:
 
-
 Intro to Github, Colab, and Overleaf: https://www.youtube.com/watch?v=50wdMpfO9t0
 
-
 Github: https://github.com/join
-
-Github Commands:
-
-* git clone url
-* git status
-* git add .
-* git commit -m "update"
-* git push origin
-
 
 Colab: https://colab.research.google.com/notebooks/welcome.ipynb
 
 
 Lab Report: https://www.overleaf.com/read/qpfrmtfdjvbp
 
-
 Lab Presentation: https://www.overleaf.com/read/xhsvcwnrkzns
-
 
 Rex's Guide to Preparing a Lab Report
 
