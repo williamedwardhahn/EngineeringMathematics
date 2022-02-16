@@ -6,7 +6,7 @@
 ## Textbook
 * Online Textbook Website Version: http://faculty.sfasu.edu/judsontw/ode/html-snapshot/odeproject.html
 * Online Textbook PDF Version: http://faculty.sfasu.edu/judsontw/ode/odeproject-electronic-snapshot.pdf
-* Online Textboox Calculus with Python https://calc-again.readthedocs.io/en/latest/calc_notebooks/2.5_calc_predator_prey.html
+* Online Textboox Calculus with Python https://calc-again.readthedocs.io/en/latest/index.html
 
 ## Class Notebooks
 * <a href="https://colab.research.google.com/drive/1Lgri8lJ4is-MPdArf4HuEZG7cVB-oYP4?usp=sharing">Symbolic Math</a>
