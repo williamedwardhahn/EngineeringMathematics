@@ -63,6 +63,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Dextify https://detexify.kirelabs.org/classify.html
 * Sympy https://docs.sympy.org/latest/tutorial/intro.html
 * Sympy https://gamma.sympy.org/
+* http://www.analogmuseum.org/english/
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
