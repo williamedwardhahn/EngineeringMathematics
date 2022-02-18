@@ -63,7 +63,8 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Dextify https://detexify.kirelabs.org/classify.html
 * Sympy https://docs.sympy.org/latest/tutorial/intro.html
 * Sympy https://gamma.sympy.org/
-* http://www.analogmuseum.org/english/
+* <a href ="http://www.analogmuseum.org/english/">Analog Museum</a>
+* <a href ="https://www.youtube.com/watch?v=a1zDuOPkMSw&list=PL2FF649D0C4407B30&index=31&t=2s">Hamming, "You and Your Research"</a>
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
