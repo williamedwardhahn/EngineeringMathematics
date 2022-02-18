@@ -81,8 +81,6 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 ## Notebooks
 
 * https://colab.research.google.com/drive/1jLUcg9jkYtNt2i6XG3sXsuDshx9xS3BH?usp=sharing
-* https://colab.research.google.com/drive/1WTX38Z-w1EUX7a4GGzsv4oOuFWA8kMcf?usp=sharing
-* 
 -->
 https://www.wombo.art/
 https://www.youtube.com/watch?v=V4LJs2ZoDR4
