@@ -14,6 +14,7 @@
 * <a href="https://colab.research.google.com/drive/1S5YiwTkzNJZUK-F8fZGE_5iziZby_lVq?usp=sharing">Numerical Antiderivative</a>
 * <a href="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">Euler's Method for Initial Value Problems</a>
 * <a href="https://colab.research.google.com/drive/1iuSJwAMotBa7Q3J7mZy3teA2xV0g6zlX?usp=sharing">Exponential Function</a>
+* <a href="https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing">Random Walk and Monte Carlo</a>
 
 ## Writeups
 1) Fully Typed in Latex (Colab or Overleaf)
@@ -81,10 +82,12 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 * https://colab.research.google.com/drive/1jLUcg9jkYtNt2i6XG3sXsuDshx9xS3BH?usp=sharing
 * https://colab.research.google.com/drive/1WTX38Z-w1EUX7a4GGzsv4oOuFWA8kMcf?usp=sharing
-* https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing
+* 
 -->
 https://www.wombo.art/
 https://www.youtube.com/watch?v=V4LJs2ZoDR4
 https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sharing
 
 * AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
+
+* Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
