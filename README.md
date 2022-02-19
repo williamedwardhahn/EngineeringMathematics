@@ -89,3 +89,4 @@ https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sh
 * AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
 
 * Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
+* Analog Computer Demo https://www.youtube.com/watch?v=H_4bFgYReq0&t=15s
