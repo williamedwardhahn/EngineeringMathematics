@@ -1,12 +1,6 @@
 # Engineering Mathematics
 
-<img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
-
-
-## Textbook
-* Online Textbook Website Version: http://faculty.sfasu.edu/judsontw/ode/html-snapshot/odeproject.html
-* Online Textbook PDF Version: http://faculty.sfasu.edu/judsontw/ode/odeproject-electronic-snapshot.pdf
-* Online Textboox Calculus with Python https://calc-again.readthedocs.io/en/latest/index.html
+<img src="http://www.analogmuseum.org/english/impressions/CSI_front.jpg">
 
 ## Class Notebooks
 * <a href="https://colab.research.google.com/drive/1Lgri8lJ4is-MPdArf4HuEZG7cVB-oYP4?usp=sharing">Symbolic Math</a>
@@ -15,6 +9,15 @@
 * <a href="https://colab.research.google.com/drive/1M1A4Vn-d3IlmQ3jLwxiK0NGD3S_d25_X?usp=sharing">Euler's Method for Initial Value Problems</a>
 * <a href="https://colab.research.google.com/drive/1iuSJwAMotBa7Q3J7mZy3teA2xV0g6zlX?usp=sharing">Exponential Function</a>
 * <a href="https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing">Random Walk and Monte Carlo</a>
+
+
+<img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
+
+
+## Textbook
+* Online Textbook Website Version: http://faculty.sfasu.edu/judsontw/ode/html-snapshot/odeproject.html
+* Online Textbook PDF Version: http://faculty.sfasu.edu/judsontw/ode/odeproject-electronic-snapshot.pdf
+* Online Textboox Calculus with Python https://calc-again.readthedocs.io/en/latest/index.html
 
 ## Writeups
 1) Fully Typed in Latex (Colab or Overleaf)
