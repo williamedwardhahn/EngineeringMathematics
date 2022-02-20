@@ -54,6 +54,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 ## Research Reference Links
 * Harmonic Analyser https://socks-studio.com/2011/08/16/more-on-the-harmonic-synthesizer-and-on-the-harmonic-analyser/
+* Historical Computer Labs https://www.insider.com/vintage-photos-computer-labs-2018-8
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
 * Analogical models https://en.wikipedia.org/wiki/Analogical_models
 * Antikythera Mechanism https://www.youtube.com/watch?v=qqlJ50zDgeA
