@@ -18,6 +18,7 @@
 * Online Textbook Website Version: http://faculty.sfasu.edu/judsontw/ode/html-snapshot/odeproject.html
 * Online Textbook PDF Version: http://faculty.sfasu.edu/judsontw/ode/odeproject-electronic-snapshot.pdf
 * Online Textboox Calculus with Python https://calc-again.readthedocs.io/en/latest/index.html
+* Latex Guide https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
 ## Writeups
 1) Fully Typed in Latex (Colab or Overleaf)
