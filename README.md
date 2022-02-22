@@ -96,3 +96,5 @@ https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sh
 
 * Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
 * Analog Computer Demo https://www.youtube.com/watch?v=H_4bFgYReq0&t=15s
+* Computer And The Mind Of Manhttps://www.youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ
+* Computer predicts the end of civilisation (1973) https://www.youtube.com/watch?v=cCxPOqwCr1I
