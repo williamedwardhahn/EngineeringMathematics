@@ -10,6 +10,7 @@
 * <a href="https://colab.research.google.com/drive/1iuSJwAMotBa7Q3J7mZy3teA2xV0g6zlX?usp=sharing">Exponential Function</a>
 * <a href="https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing">Random Walk and Monte Carlo</a>
 
+*<a href="https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sharing">Matrix Data Demo</a>
 
 <img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
 
@@ -77,6 +78,14 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Sympy https://gamma.sympy.org/
 * <a href ="http://www.analogmuseum.org/english/">Analog Museum</a>
 * <a href ="https://www.youtube.com/watch?v=a1zDuOPkMSw&list=PL2FF649D0C4407B30&index=31&t=2s">Hamming, "You and Your Research"</a>
+* Art Matrix Generator https://www.wombo.art/
+* Classic OCR https://www.youtube.com/watch?v=V4LJs2ZoDR4
+* AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
+* Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
+* Analog Computer Demo https://www.youtube.com/watch?v=H_4bFgYReq0&t=15s
+* Computer And The Mind Of Manhttps://www.youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ
+* Computer predicts the end of civilisation (1973) https://www.youtube.com/watch?v=cCxPOqwCr1I
+
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
@@ -93,13 +102,3 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 * https://colab.research.google.com/drive/1jLUcg9jkYtNt2i6XG3sXsuDshx9xS3BH?usp=sharing
 -->
-https://www.wombo.art/
-https://www.youtube.com/watch?v=V4LJs2ZoDR4
-https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sharing
-
-* AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
-
-* Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
-* Analog Computer Demo https://www.youtube.com/watch?v=H_4bFgYReq0&t=15s
-* Computer And The Mind Of Manhttps://www.youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ
-* Computer predicts the end of civilisation (1973) https://www.youtube.com/watch?v=cCxPOqwCr1I
