@@ -10,9 +10,9 @@
 * <a href="https://colab.research.google.com/drive/1iuSJwAMotBa7Q3J7mZy3teA2xV0g6zlX?usp=sharing">Exponential Function</a>
 * <a href="https://colab.research.google.com/drive/1sdMmmKbTBK28isJ4Hu_XeLApRPjvvFmA?usp=sharing">Random Walk and Monte Carlo</a>
 
-*<a href="https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sharing">Matrix Data Demo</a>
+* <a href="https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sharing">Matrix Data Demo</a>
 
-<img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
+* <img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
 
 
 ## Textbook
