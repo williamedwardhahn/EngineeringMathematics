@@ -76,14 +76,15 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Dextify https://detexify.kirelabs.org/classify.html
 * Sympy https://docs.sympy.org/latest/tutorial/intro.html
 * Sympy https://gamma.sympy.org/
-* <a href ="http://www.analogmuseum.org/english/">Analog Museum</a>
-* <a href ="https://www.youtube.com/watch?v=a1zDuOPkMSw&list=PL2FF649D0C4407B30&index=31&t=2s">Hamming, "You and Your Research"</a>
+* Analog Museum http://www.analogmuseum.org/english/
+* Hamming, "You and Your Research" https://www.youtube.com/watch?v=a1zDuOPkMSw&list=PL2FF649D0C4407B30&index=31&t=2s
 * Art Matrix Generator https://www.wombo.art/
 * Classic OCR https://www.youtube.com/watch?v=V4LJs2ZoDR4
 * AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
 * Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
 * Analog Computer Demo https://www.youtube.com/watch?v=H_4bFgYReq0&t=15s
 * Computer And The Mind Of Manhttps://www.youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ
+* Jay Wright Forrester https://en.wikipedia.org/wiki/Jay_Wright_Forrester
 * Computer predicts the end of civilisation (1973) https://www.youtube.com/watch?v=cCxPOqwCr1I
 
 
