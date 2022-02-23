@@ -56,6 +56,7 @@ Rex's Guide to Preparing a Lab Report
 https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=sharing
 
 ## Research Reference Links
+* Analog Slides https://docs.google.com/presentation/d/1Y2soPgmG7wvT-O22U8WKnXnAlxlovXRtjeFT2mcPt-E/edit?usp=sharing
 * Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture1-oscillators-and-linearity.pdf
 * Driven Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture2-driven-oscillators.pdf
 * Coupled Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture3-coupled-oscillators.pdf
