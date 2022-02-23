@@ -59,7 +59,19 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Driven Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture2-driven-oscillators.pdf
 * Coupled Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture3-coupled-oscillators.pdf
 * Oscillators to Waves https://scholar.harvard.edu/files/schwartz/files/lecture4-oscillators-to-waves.pdf
+* Fourier series https://scholar.harvard.edu/files/schwartz/files/lecture5-fourier.pdf
+* Waves in strings and air https://scholar.harvard.edu/files/schwartz/files/lecture6-waves.pdf
+* Music https://scholar.harvard.edu/files/schwartz/files/lecture7-music.pdf
+* Fourier Transforms https://scholar.harvard.edu/files/schwartz/files/lecture8-fouriertransforms.pdf
+* Impedance https://scholar.harvard.edu/files/schwartz/files/lecture9-impedance.pdf
+* Energy and Power in Waves https://scholar.harvard.edu/files/schwartz/files/lecture10-power.pdf
+* Wavepackets https://scholar.harvard.edu/files/schwartz/files/lecture11-wavepackets.pdf
+* Phonons https://scholar.harvard.edu/files/schwartz/files/11-phononsphotons_0.pdf
+* EM Waves https://scholar.harvard.edu/files/schwartz/files/lecture13-light.pdf
 * Wave Phenomena https://scholar.harvard.edu/files/schwartz/files/lecture12-muller.pdf
+* Color https://scholar.harvard.edu/files/schwartz/files/lecture17-color.pdf
+* Diffraction https://scholar.harvard.edu/files/schwartz/files/lecture19-diffraction.pdf
+* QM https://scholar.harvard.edu/files/schwartz/files/lecture20-quantum.pdf
 * Harmonic Analyser https://socks-studio.com/2011/08/16/more-on-the-harmonic-synthesizer-and-on-the-harmonic-analyser/
 * Historical Computer Labs https://www.insider.com/vintage-photos-computer-labs-2018-8
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
@@ -83,7 +95,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
 * Analog Computer https://spectrum.ieee.org/not-your-fathers-analog-computer#toggle-gdpr
 * Analog Computer Demo https://www.youtube.com/watch?v=H_4bFgYReq0&t=15s
-* Computer And The Mind Of Manhttps://www.youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ
+* Computer And The Mind Of Man https://www.youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ
 * Jay Wright Forrester https://en.wikipedia.org/wiki/Jay_Wright_Forrester
 * Computer predicts the end of civilisation (1973) https://www.youtube.com/watch?v=cCxPOqwCr1I
 
