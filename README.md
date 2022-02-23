@@ -56,6 +56,7 @@ Rex's Guide to Preparing a Lab Report
 https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=sharing
 
 ## Research Reference Links
+* Analogical models https://en.wikipedia.org/wiki/Analogical_models
 * Analog Slides https://docs.google.com/presentation/d/1Y2soPgmG7wvT-O22U8WKnXnAlxlovXRtjeFT2mcPt-E/edit?usp=sharing
 * Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture1-oscillators-and-linearity.pdf
 * Driven Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture2-driven-oscillators.pdf
@@ -77,7 +78,6 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Harmonic Analyser https://socks-studio.com/2011/08/16/more-on-the-harmonic-synthesizer-and-on-the-harmonic-analyser/
 * Historical Computer Labs https://www.insider.com/vintage-photos-computer-labs-2018-8
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
-* Analogical models https://en.wikipedia.org/wiki/Analogical_models
 * Antikythera Mechanism https://www.youtube.com/watch?v=qqlJ50zDgeA
 * Differential Analyzers https://ethw.org/Differential_Analyzers
 * PDE Documentary https://www.youtube.com/watch?v=FvXwVZPOoBI
