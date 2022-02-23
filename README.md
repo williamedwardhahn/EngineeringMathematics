@@ -34,7 +34,7 @@
 
 ## Setup
 
-< href"https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown Reference</a>
+< href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown Reference</a>
 
 <img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
 
