@@ -60,7 +60,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analog Slides https://docs.google.com/presentation/d/1Y2soPgmG7wvT-O22U8WKnXnAlxlovXRtjeFT2mcPt-E/edit?usp=sharing
 * Analog Circuit Simulator https://www.falstad.com/circuit/
 * Dynamical Systems Documentary https://www.youtube.com/watch?v=wdrO0Nwztrg
-
+##
 
 * Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture1-oscillators-and-linearity.pdf
 * Driven Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture2-driven-oscillators.pdf
@@ -80,7 +80,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Diffraction https://scholar.harvard.edu/files/schwartz/files/lecture19-diffraction.pdf
 * QM https://scholar.harvard.edu/files/schwartz/files/lecture20-quantum.pdf
 
-
+##
 * Harmonic Analyser https://socks-studio.com/2011/08/16/more-on-the-harmonic-synthesizer-and-on-the-harmonic-analyser/
 * Historical Computer Labs https://www.insider.com/vintage-photos-computer-labs-2018-8
 * Analog Integration https://www.youtube.com/watch?v=IgF3OX8nT0w
