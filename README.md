@@ -34,7 +34,7 @@
 
 ## Setup
 
-< href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown Reference</a>
+<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown Reference</a>
 
 <img src="https://99percentinvisible.org/app/uploads/2016/10/cybersyn-screen.jpg">
 
@@ -61,7 +61,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analog Circuit Simulator https://www.falstad.com/circuit/
 * Dynamical Systems Documentary https://www.youtube.com/watch?v=wdrO0Nwztrg
 ##
-
+<!--
 * Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture1-oscillators-and-linearity.pdf
 * Driven Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture2-driven-oscillators.pdf
 * Coupled Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture3-coupled-oscillators.pdf
@@ -79,7 +79,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Color https://scholar.harvard.edu/files/schwartz/files/lecture17-color.pdf
 * Diffraction https://scholar.harvard.edu/files/schwartz/files/lecture19-diffraction.pdf
 * QM https://scholar.harvard.edu/files/schwartz/files/lecture20-quantum.pdf
-
+-->
 ##
 * Analog Integration 1 https://www.youtube.com/watch?v=IgF3OX8nT0w
 * Analog Integration 2 https://www.youtube.com/watch?v=GVsUOuSjvcg
