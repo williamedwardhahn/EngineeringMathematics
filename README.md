@@ -61,6 +61,8 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Analog Circuit Simulator https://www.falstad.com/circuit/
 * Dynamical Systems Documentary https://www.youtube.com/watch?v=wdrO0Nwztrg
 * Harmonic Oscillator Simulator https://www.falstad.com/harmonicosc/ https://www.myphysicslab.com/ https://www.acs.psu.edu/drussell/demos.html https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_en.html
+* Fourier https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_en.html
+
 ##
 <!--
 * Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture1-oscillators-and-linearity.pdf
