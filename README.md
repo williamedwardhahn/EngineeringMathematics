@@ -63,7 +63,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Dynamical Systems Documentary https://www.youtube.com/watch?v=wdrO0Nwztrg
 * Harmonic Oscillator Simulator https://www.falstad.com/harmonicosc/ https://www.myphysicslab.com/ https://www.acs.psu.edu/drussell/demos.html https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_en.html
 * Fourier https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_en.html
-
+* https://people.carleton.edu/~jellinge/m101s12/Pages/01/01SoundBasics.html
 ##
 <!--
 * Oscillators https://scholar.harvard.edu/files/schwartz/files/lecture1-oscillators-and-linearity.pdf
