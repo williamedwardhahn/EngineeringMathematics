@@ -12,6 +12,8 @@
 * <a href="https://colab.research.google.com/drive/1IA6xiXEWwHRBsFowhczK3PMKyr-Qu7x9?usp=sharing">FFT Convolution</a>
 * <a href="https://colab.research.google.com/drive/1tM5D7d_CBMFHF5MPzaRSqI3e7529oeyg?usp=sharing">Harmonic Oscillator</a>
 * <a href="https://colab.research.google.com/drive/13l66_NjoeqM3m8Vp-A5f5WNjryaRaaXR?usp=sharing">Matrix Data Demo</a>
+* <a href="https://colab.research.google.com/drive/1dTvnh39fHOtMABnUtNJW_ylZoEZzehj8?usp=sharing">Alexnet 1</a>
+* <a href="https://colab.research.google.com/drive/1dXuyY7m-iJgGsGsoMqG9J0pKEn-WHemi?usp=sharing">Alexnet 2</a>
 
 * <img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2020/12/A2573-10-Things-you-did-not-know-about-the-Tacoma-Narrows-Bridge.jpg">
 
