@@ -122,6 +122,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 * Jay Wright Forrester https://en.wikipedia.org/wiki/Jay_Wright_Forrester
 * Computer predicts the end of civilisation (1973) https://www.youtube.com/watch?v=cCxPOqwCr1I
 * Applications of System Dynamics - Jay W. Forrester https://www.youtube.com/watch?v=G1mVnqdlpvo
+* Analog Projects http://www.learningaboutelectronics.com/Projects/
 
 <!--- 
 * https://sam-dolan.staff.shef.ac.uk/mas212/notebooks/ODE_Example.html
